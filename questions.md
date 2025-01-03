@@ -1,5 +1,5 @@
-**Completa la frase con la parola appropriata**
-
+# Completa la frase con la parola appropriata
+---
 - Mentre cucinavi, io e Marco ... tavola.
     - A) abbiamo preparati
     - B) sono preparati
@@ -74,11 +74,8 @@
     - E) Permesso!
 
 
-
-
-
-**Completa il testo con la parola appropriata**
-
+# Completa il testo con la parola appropriata
+---
 - Giorgio ... 90kg, ha il ... rotondo e il ... a patata. Ha un grande ... dell'umorismo ed e' molto ..., aiuta sempre gli altri.
     - A) pesa, viso, naso, senso, generoso
     - B) pesa, testa, orecchio, umore, tichio
