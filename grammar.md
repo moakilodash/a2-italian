@@ -1,5 +1,5 @@
-**L'aggettivo possessivo**
-
+# L'aggettivo possessivo
+---
 - Patrizia e Marco vanno a comprare i regali di Natale per ... figli.
     - A) i loro
     - B) suo
@@ -14,9 +14,8 @@
     - E) nostri
 
 
-
-**L'indicativo imperfetto**
-
+# L'indicativo imperfetto
+---
 - Tempo fa io ... moltissimo lo sport!
     - A) amavi
     - B) amava
@@ -31,9 +30,8 @@
     - E) fareste
 
 
-
-**Il passato prossimo**
-
+# Il passato prossimo
+---
 - Lo spettacolo non ...
     - A) ha ancora finito
     - B) e' ancora finito
@@ -121,9 +119,8 @@
     - E) sono potuti
 
 
-
-**L'Indicativo futuro**
-
+# L'Indicativo futuro
+---
 - Dopo i compiti la mamma ci ... la merenda
     - A) dera'
     - B) dava
@@ -155,9 +152,8 @@
     - D) mangeranno
 
 
-
-**La preposizione**
-
+# La preposizione
+---
 - Accomodati, non stare ... piedi!
     - A) da
     - B) a
@@ -196,9 +192,8 @@
     - E) dal
 
 
-
-**Il pronome diretto**
-
+# Il pronome diretto
+---
 - Hai visto Gianni e Luca? 
   No, ... vedo domani sera.
     - A) vi
@@ -227,9 +222,8 @@
     - E) la
 
 
-
-**Il pronome indiretto**
-
+# Il pronome indiretto
+---
 - Francesca ... ha mandato un bel biglietto d'auguri per Natale, ma noi le dobbiamo ancora rispondere.
     - A) ti
     - B) le
@@ -250,9 +244,8 @@
     - E) mi
 
 
-
-**L'imperativo informale**
-
+#L'imperativo informale
+---
 - Simone, ...! La tua apasta e' ancora tutta nel piatto!
     - A) mangiate
     - B) mangino
