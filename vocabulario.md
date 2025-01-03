@@ -1,12 +1,12 @@
-**Vocabolario**
-
+# Vocabolario
+---
 - finocchio (fennel)
 - sedano (celery)
 - melanzana (eggplant)
 - carciofo (artichoke)
 - pera (pear)
 - buon viaggio (have a good trip)
-- ginocchio* (knee)
+- ginocchio* (knee) -- ginocchia
 - pettine (comb)
 - camicia (shirt)
 - giacca (jacket)
@@ -17,4 +17,4 @@
 - asparagi (asparagus)
 - zucchini (zucchini)
 - peperoni (bell peppers)
-- albergo* (hotel)
+- albergo* (hotel) -- alberghi
